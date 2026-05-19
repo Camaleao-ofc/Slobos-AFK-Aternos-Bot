@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MiniKelp.aternos.me",
+    "ip": "MiniKelp.aternos.me:17787",
     "port": 17787,
     "version": "",
     "try-creative": false
